@@ -18,3 +18,4 @@ The library system aims to document various entities such as books, their author
 Implementation Guidelines
 The creation of the database involves establishing a structured schema that accurately reflects the relationships between books, authors, copies, loans, and users as described. It is important to note the simplifications made for the purposes of this coursework, such as documenting only the primary author for each book and limiting loans to one copy per transaction, to streamline the database design process.
 
+
